@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/krishvijay30/ExploreLondon/_apis/build/status/vijayOrganApple.vijayRepo?branchName=master)](https://dev.azure.com/krishvijay30/ExploreLondon/_build/latest?definitionId=5&branchName=master)
